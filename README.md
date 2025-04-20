@@ -15,7 +15,19 @@ mindugradle will do boring, repetitive tasks for you!
 - JDK 8 or later, works best in jbr 21
 
 ## Usage
-
+First, add this plugin to your `build.gradle.kts`:
+```kotlin
+plugin {
+    // other plugins
+    id("kr.lanthanide.mindugradle") version("1.0")
+}
+```
+And then, it's done! Enjoy developing your mod.<br/>
+To run Mindustry client or server with your mod:
+```bash
+./gradlew runClient
+./gradlew runServer
+```
 
 ## Planned features
 - Hotswap
