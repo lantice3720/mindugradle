@@ -1,6 +1,6 @@
 # mindugradle
 [![Gradle Plugin Portal Version](https://img.shields.io/gradle-plugin-portal/v/kr.lanthanide.mindugradle)](https://plugins.gradle.org/plugin/kr.lanthanide.mindugradle)
-[![Mindustry version](https://img.shields.io/badge/Mindustry-v136-blue)](https://mindustrygame.github.io/)
+[![Mindustry version](https://img.shields.io/badge/Mindustry-v139-blue)](https://mindustrygame.github.io/)
 
 Your best modding partner.
 
